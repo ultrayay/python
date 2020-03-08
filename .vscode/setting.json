@@ -1,0 +1,20 @@
+{
+    "C_Cpp.updateChannel": "Insiders",
+    "editor.fontSize": 17,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "java.errors.incompleteClasspath.severity": "ignore",
+    "python.autoComplete.addBrackets": true,
+    "python.jediEnabled": false,
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.colorTheme": "SynthWave '84",
+    "editor.renderIndentGuides": false,
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "terminal.integrated.shellArgs.windows": [ "-l", "-i" ],
+}
